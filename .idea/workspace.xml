@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="514bd45e-84ae-427d-9121-f88bd4966c3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +87,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578607131676" />
-    <state x="692" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1578510823354">
+    <state x="692" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1578685658613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="692" y="379" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578510823354" />
+    <state x="692" y="379" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578685658613" />
     <state x="378" y="175" key="new project wizard" timestamp="1578512424638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
